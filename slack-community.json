@@ -1,0 +1,10 @@
+{
+  "slack_channel": {
+    "name": "all-human-in-the-loop",
+    "display_name": "#all-human-in-the-loop",
+    "type": "community",
+    "purpose": "Share announcements and updates about company news, upcoming events, or teammates who deserve some kudos.",
+    "configured_by": "Shibi",
+    "configured_at": "2026-07-03"
+  }
+}
